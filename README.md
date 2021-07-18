@@ -11,5 +11,5 @@ A personal KISS Linux repository.
 gcc-fort - GCC built with the C and FORTRAN compiliers (gcc/gfortran).
 
 ### Extra
-labwc - Wayland wlroots based stacking compositor.
+labwc - Wayland wlroots based stacking compositor.\
 neatvi-git - Kyx0r's [neatvi](https://github.com/kyx0r/neatvi) fork.
