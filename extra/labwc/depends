@@ -1,0 +1,10 @@
+meson
+samurai
+wayland
+wayland-protocols
+libinput
+libxml2
+cairo
+pango
+glib
+libxkbcommon
