@@ -50,7 +50,7 @@ export libat_cv_have_ifunc=no
     --enable-threads \
     --enable-tls \
     --enable-initfini-array \
-    --enable-languages=c,c++,fortran \
+    --enable-languages=fortran \
     --without-included-gettext \
     --with-zstd=no \
     --with-system-zlib \
