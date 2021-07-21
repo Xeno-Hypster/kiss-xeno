@@ -1,0 +1,7 @@
+bmake
+libucl
+pango
+cairo
+libinput
+libxkbcommon
+pixman
