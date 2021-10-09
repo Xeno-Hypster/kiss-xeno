@@ -1,8 +1,0 @@
-#!/bin/sh -e
-
-sed -i '48s/ | SYN_IT//' conf.c
-sed -i '57s/ | SYN_IT//' conf.c
-sed -i '67s/ | SYN_IT//' conf.c
-sed -i '75s/ | SYN_IT//' conf.c
-/bin/sh build.sh
-install -Dm 755 vi "$1/usr/bin/vi"
